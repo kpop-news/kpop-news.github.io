@@ -1,4 +1,4 @@
-https://front-log.github.io/
+https://kpop-news.github.io/
 
 # Tale
 

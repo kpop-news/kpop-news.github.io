@@ -1,14 +1,14 @@
 # Site settings
-title: Front Log
-description: "Front Log"
-url: "https://front-log.github.io/"
+title: Kpop News
+description: "Kpop News"
+url: "https://kpop-news.github.io/"
 
 # Google Analytics
 google_analytics: G-4E7S0P2MWC
 
 # Author
 author:
-    name: Front Log
+    name: Kpop News
     url:
     email:
 
