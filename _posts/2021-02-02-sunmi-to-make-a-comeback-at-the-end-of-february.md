@@ -14,4 +14,3 @@ thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAE
 
 선미는 지난해 6월 디지털 싱글 `포라피팜`을 발표한 지 8개월 만에 컴백한다. 그녀는 또한 8월에 박진영의 "When We Disco"에 출연했다.
 
-이 게시물 공유

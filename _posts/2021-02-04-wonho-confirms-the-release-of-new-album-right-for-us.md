@@ -20,4 +20,3 @@ thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAE
 </div>
 
 
-이 게시물 공유

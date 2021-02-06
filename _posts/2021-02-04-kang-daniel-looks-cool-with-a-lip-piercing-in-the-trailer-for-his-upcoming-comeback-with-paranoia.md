@@ -20,4 +20,3 @@ thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-15-890x5
 </div>
 
 
-이 게시물 공유

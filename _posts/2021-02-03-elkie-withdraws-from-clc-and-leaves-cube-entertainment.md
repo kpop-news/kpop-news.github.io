@@ -16,4 +16,3 @@ thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAE
 
 "엘키에게 관심을 가져주신 모든 팬 여러분께 감사드립니다. 엘키의 새로운 출발을 위해 따뜻한 응원과 격려를 부탁드립니다. 감사합니다."
 
-이 게시물 공유

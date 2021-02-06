@@ -16,4 +16,3 @@ thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAE
 
 ![image](https://kpopchingu.com/wp-content/uploads/2021/02/95.png)
 
-이 게시물 공유
