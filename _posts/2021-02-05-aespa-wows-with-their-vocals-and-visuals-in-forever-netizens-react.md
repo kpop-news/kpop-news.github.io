@@ -20,7 +20,7 @@ espa는 새로운 뮤직 비디오로 돌아왔다.
 
 
 <div class="video_wrapper" style="padding-top: 56.25%;">
-    <iframe width="760" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-src="https://www.youtube.com/embed/wog1R1d4zls" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe>
+    <iframe width="760" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="lazyload" src="https://www.youtube.com/embed/wog1R1d4zls"></iframe>
 </div>
 
 
