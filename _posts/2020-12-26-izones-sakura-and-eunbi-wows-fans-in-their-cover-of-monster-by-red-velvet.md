@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이즈원의 사쿠라와 은비, 레드벨벳의 '괴물' 표지를 쓴 팬들"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-26T161937.302-890x512.png"
 tags: 
 ---

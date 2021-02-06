@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SNSD 태연, 감성적인 '무엇을 너를 부를까' MV에 매료되다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

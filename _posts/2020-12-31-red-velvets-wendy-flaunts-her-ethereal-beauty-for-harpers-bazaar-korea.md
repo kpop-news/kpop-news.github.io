@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "레드벨벳 웬디, 하퍼즈 바자회를 위한 에테리얼 뷰티 자랑"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

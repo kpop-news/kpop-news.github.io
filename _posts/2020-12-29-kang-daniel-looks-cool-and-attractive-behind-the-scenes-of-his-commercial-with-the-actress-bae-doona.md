@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "배우 배두나와 함께한 광고 비하인드, 멋지고 매력적으로 보이는 강다니엘"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

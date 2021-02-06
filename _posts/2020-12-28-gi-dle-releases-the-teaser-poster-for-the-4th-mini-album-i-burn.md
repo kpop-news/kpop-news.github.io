@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G)아이들, 미니 4집 'I Burn' 티저 포스터 공개"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

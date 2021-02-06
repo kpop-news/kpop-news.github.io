@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EXO KAI, 크리스마스 온라인 팬미팅 '메리 KAI-마스' 개최"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-15T024731.511-890x512.png"
 tags: 
 ---

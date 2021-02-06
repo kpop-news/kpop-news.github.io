@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐 잭슨, JYP 탈퇴 후 첫 솔로곡 '혼자' 발표"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-48-890x512.png"
 tags: 
 ---

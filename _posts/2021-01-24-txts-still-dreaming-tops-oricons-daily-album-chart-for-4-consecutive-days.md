@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TXT의 'STALL DREAMING'이 오리콘 일일 앨범 차트 4일 연속 1위를 차지하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-29-890x512.png"
 tags: 
 ---

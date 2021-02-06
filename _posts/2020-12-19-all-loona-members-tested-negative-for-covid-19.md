@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19에 대해 음성으로 테스트된 모든 LOONA 멤버"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-44-1-890x512.png"
 tags: 
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Wei는 '아이덴티티: 챌린지 티저 이미지"
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://i.redd.it/djdroj9ogvf61.jpg"
 tags: 
 ---
 

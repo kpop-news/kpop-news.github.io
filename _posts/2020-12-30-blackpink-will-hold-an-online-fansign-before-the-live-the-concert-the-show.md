@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크가 라이브 콘서트 'THE SHOW'에 앞서 온라인 팬사인회를 연다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-30T074827.042-890x512.png"
 tags: 
 ---

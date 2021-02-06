@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19 양성 반응이 나온 골든차일드 재현"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-25-2-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스 사나 14일 만에 인스타그램에 컴백 + 네티즌 반응"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

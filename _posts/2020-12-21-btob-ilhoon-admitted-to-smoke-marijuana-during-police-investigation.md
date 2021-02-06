@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "비투비 일훈, 경찰 수사 중 마리화나 흡연 인정"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스의 모모와 미나가 '크라이 포 미' 콘셉트 포토에서 매력적인 아름다움을 뽐내다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-14T163326.441-890x512.png"
 tags: 
 ---

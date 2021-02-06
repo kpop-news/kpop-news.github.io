@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "방탄소년단 슈가, 2021년 새해 전야제 어깨 수술 후 무대 복귀"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-28T113534.000-890x512.png"
 tags: 
 ---

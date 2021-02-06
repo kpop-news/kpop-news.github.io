@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Yes No Maybe' 댄스 연습의 새로운 버전으로 네티즌들을 미치게 하는 배수지"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

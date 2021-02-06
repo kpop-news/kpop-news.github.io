@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "청하, COVID-19 양성반응 후 '케렌시아'와 'X' 발매 연기"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-52-890x512.png"
 tags: 
 ---

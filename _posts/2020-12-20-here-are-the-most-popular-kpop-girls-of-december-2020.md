@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "여기 2020년 12월 가장 인기 있는 K팝 소녀들이 있다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

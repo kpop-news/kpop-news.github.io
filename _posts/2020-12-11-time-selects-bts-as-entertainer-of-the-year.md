@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "타임지가 방탄소년단을 '올해의 연예인'으로 선정하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

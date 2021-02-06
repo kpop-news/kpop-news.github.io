@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "엘레 코리아에게 사랑스럽고 시크해 보이는 블랙핑크의 지수"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-15T014442.769-890x512.png"
 tags: 
 ---

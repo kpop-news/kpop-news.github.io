@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "모모랜드 낸시, TC 캔들러 '2020년 가장 아름다운 얼굴 100인' 10위"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-28T154422.311-890x512.png"
 tags: 
 ---

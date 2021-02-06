@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "에일리는 'A Way Station' OST의 'In Memory'를 부른다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/060930/thumb/1612621818_germainej.jpg"
 tags: 
 ---
+
+
+
+<div class="video_wrapper" style="padding-top: 56.25%;">
+    <iframe id="player" class="main_video" src="https://www.youtube.com/embed/XEnfE6JbI8U" width="100%" height="100%" frameborder="0" allowfullscreen="" style="display: block !important; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 에일리는 `A Way Station` OST의 "In Memory" 뒤에 나오는 목소리이다.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "eespa는 유영진의 노래 '영원히'를 리메이크 할 것이다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-49-890x512.png"
 tags: 
 ---

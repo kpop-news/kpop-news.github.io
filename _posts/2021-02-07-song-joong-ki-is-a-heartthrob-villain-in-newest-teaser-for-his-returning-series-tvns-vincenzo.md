@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "송중기는 복귀작 tvN '빈센조'의 최신 티저에 등장하는 열혈 악당이다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://www.allkpop.com/upload/2021/02/content/061111/thumb/1612627913_beansss.jpg"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐, JYP엔터테인먼트와 재계약 안 함"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

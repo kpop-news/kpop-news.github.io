@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "지연이 최근 화보에서 여신 같은 미모를 뽐내다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

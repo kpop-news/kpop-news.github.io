@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'영원히'에서 보컬과 비주얼로 눈물을 흘리는 eespa + 네티즌 반응"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-16-890x512.png
 ---
 

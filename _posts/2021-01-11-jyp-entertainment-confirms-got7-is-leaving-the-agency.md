@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7 탈퇴 확인 JYP엔터테인먼트"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

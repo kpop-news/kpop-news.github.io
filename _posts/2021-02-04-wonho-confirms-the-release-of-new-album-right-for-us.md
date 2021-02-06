@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "원호, 새 앨범 발매 확정 '사랑의 동의어 2위: 우리에게 딱'"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

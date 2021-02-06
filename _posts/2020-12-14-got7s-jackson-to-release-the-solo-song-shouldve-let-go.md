@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐의 잭슨이 솔로곡 '놓아야 했다'를 발표하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "소녀시대 서현, 1억원 상당의 여성 생리대 기부"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-05T101534.567-890x512.png"
 tags: 
 ---

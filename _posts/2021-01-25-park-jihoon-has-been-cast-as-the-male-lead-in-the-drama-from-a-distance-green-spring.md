@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "박지훈이 드라마 '멀리서, 푸른 봄'의 남자 주인공으로 캐스팅되었다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

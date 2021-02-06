@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G)아이들미연과 미니와 '싱글즈' 매거진 사랑스러운 미모"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

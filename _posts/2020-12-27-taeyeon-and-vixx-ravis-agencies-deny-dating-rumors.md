@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "태연과 빅스 라비의 소속사, 열애설 부인"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-27T093942.233-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "인피니트 김성규가 '페이드'를 위한 라이브 클립에 매혹되다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "빅톤, 첫 번째 정규 앨범 'VOICE: The Future is Now'의 새 발매일을 발표하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스 지효와 다현, 강렬한 미모와 함께 '크라이 포 미' 콘셉트 포토"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-4-2-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ENHYPEN은 직원의 양성 반응을 검사한 후 COVID-19 시험을 거쳤다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-54-890x512.png"
 tags: 
 ---

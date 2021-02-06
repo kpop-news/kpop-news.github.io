@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SOMI, 틱톡에서 특별한 크리스마스 이벤트 'SOM ALONE' 개최"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-5-2-890x512.png"
 tags: 
 ---

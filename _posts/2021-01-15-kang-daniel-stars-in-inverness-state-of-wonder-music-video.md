@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, 인버네스 '스테이트 오브 원더' 뮤직비디오 출연"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-6-890x512.png"
 tags: 
 ---

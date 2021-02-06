@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스의 쯔위와 사나, 'Cry FOR ME' 콘셉트 포토에 절묘하게 등장"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GIVENCHY BEAUTY PHUME 컬렉션의 새로운 모델 강다니엘"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

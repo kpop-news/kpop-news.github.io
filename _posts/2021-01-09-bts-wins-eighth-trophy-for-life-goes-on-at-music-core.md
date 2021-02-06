@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "방탄소년단, '뮤직 코어'에서 '인생은 계속된다' 8번째 트로피 획득"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-09T110126.497-890x512.png"
 tags: 
 ---

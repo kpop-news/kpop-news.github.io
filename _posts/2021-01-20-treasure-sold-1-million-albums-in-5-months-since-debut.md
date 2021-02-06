@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TREASURE 데뷔 5개월 만에 100만 장 판매"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

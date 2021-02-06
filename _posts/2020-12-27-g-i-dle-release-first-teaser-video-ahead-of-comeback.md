@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G) I-DLE, 컴백을 앞두고 첫 티저 영상 공개"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

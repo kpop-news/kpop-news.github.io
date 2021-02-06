@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이티지, 앨범 트랙리스트 'Not Shy' 영어 버전 공개"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

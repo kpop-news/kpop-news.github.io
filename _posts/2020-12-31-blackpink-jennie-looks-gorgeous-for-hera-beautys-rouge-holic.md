@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "헤라 미녀의 루즈 홀릭이 멋있어 보이는 블랙핑크"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

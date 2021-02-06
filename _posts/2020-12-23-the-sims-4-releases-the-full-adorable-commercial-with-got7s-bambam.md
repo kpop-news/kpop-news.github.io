@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐의 뱀뱀과 함께 완전 사랑스런 광고를 내보내는 심즈4"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

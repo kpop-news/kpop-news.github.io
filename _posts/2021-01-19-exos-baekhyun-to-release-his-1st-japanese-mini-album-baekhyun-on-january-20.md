@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "엑소의 백현이 1월 20일 그의 첫 번째 일본 미니앨범 '백현'을 발매한다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-23-890x512.png"
 tags: 
 ---

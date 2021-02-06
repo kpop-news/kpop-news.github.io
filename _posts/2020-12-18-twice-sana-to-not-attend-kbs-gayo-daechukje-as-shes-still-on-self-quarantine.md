@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스 사나, KBS 가야대축제에 불참, 아직 자가격리중이라"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크 로제, 온라인 콘서트 'THE SHOW'에서 솔로곡 발표"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

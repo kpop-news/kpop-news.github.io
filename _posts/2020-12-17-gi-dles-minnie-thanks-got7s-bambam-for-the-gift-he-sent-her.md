@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G)아이들 미니 땡스 갓세븐의 뱀뱀이 보낸 선물"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

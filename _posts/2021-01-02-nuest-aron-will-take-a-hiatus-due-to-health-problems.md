@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "뉴이스트 아론이 건강 문제로 잠시 휴식을 취할 것"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

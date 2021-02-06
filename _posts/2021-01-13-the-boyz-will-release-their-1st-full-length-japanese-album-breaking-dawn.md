@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "더보이즈, 일본 정규 1집 앨범 '브레이킹 던' 발매"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

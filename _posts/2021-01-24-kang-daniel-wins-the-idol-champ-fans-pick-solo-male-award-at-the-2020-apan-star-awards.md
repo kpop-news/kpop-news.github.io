@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'2020 APAN STAR AWARDS'에서 강다니엘, '아이돌 챔프 팬의 선택 – 솔로 남성상' 수상"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

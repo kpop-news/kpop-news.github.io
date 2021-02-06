@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "스포일러 제이미가 '불후의 명곡'에서 '러브송'의 속도를 늦춘다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/060832/thumb/1612618355_germainej.jpg"
 tags: 
 ---
 

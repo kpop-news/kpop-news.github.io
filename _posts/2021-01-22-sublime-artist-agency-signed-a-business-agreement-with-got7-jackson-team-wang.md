@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "서브라임 아티스트 에이전시 GOT7 잭슨과 업무협약을 체결한 'TEAM WANG'"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-12-1-890x512.png"
 tags: 
 ---

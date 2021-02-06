@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "소녀시대 태연이 새 드라마 '겁나는 동거' 촬영장에 커피차를 보냈다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

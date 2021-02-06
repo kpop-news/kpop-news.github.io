@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'영원히'를 위한 새로운 티저 이미지로 몽환적인 아름다움을 뽐내는 espa"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

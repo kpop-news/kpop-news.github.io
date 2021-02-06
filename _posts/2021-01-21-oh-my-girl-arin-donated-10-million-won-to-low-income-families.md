@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "오마이걸 아린, 저소득층 1000만원 기부"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

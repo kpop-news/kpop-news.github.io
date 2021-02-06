@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'블랙 맘바'를 공개하는 espa, 무대 뒤 + 니트족 반응"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-08T121855.011-890x512.png"
 tags: 
 ---

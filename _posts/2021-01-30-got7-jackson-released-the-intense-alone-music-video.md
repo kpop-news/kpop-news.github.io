@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7 잭슨이 강렬한 '혼자' 뮤직비디오를 공개하다"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

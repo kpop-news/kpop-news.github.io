@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7의 잭슨과 JJ 린은 '놓았어야 했다'를 위한 감성 뮤직 비디오를 발매한다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

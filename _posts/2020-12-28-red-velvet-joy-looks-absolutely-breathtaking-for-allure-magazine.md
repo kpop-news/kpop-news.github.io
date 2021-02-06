@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "매혹적인 매거진에 절로 숨이 막힐 것 같은 레드벨벳 기쁨"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-28T023405.546-890x512.png"
 tags: 
 ---

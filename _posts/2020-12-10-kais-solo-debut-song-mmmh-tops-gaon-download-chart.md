@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KAI 솔로 데뷔곡 'Mmmh' 가온 다운로드 차트 1위"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

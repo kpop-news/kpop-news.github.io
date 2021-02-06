@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, 위기가정 아동 지원 캠페인 '제발 날 지켜줘' 동참"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'내셔널 센터' 강다니엘, 2월 컴백"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

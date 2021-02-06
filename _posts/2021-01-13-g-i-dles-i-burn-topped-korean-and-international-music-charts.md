@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G) I-DLE의 'I Burn'이 국내외 음악 차트 1위"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

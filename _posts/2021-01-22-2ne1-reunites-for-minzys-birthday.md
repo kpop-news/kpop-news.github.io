@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "민지의 27번째 생일을 위한 2NE1 재회"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-14-1-890x512.png"
 tags: 
 ---

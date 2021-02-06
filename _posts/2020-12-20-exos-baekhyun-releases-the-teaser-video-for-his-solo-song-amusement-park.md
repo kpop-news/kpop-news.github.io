@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EXO의 백현이 솔로곡 '유원지' 티저 영상을 공개하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

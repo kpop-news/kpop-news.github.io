@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "현빈과 손예진, 교제 확인"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-01T105220.987-890x512.png"
 tags: 
 ---

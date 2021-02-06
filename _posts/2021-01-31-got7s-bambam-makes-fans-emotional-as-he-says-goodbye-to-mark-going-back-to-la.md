@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LA로 돌아간 마크에게 작별인사를 하는 갓세븐의 뱀뱀은 팬들을 감동시킨다."
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

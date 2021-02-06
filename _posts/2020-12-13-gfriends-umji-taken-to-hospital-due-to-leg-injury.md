@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "다리 부상으로 병원에 입원한 여자친구 엄지"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-83-890x512.png"
 tags: 
 ---

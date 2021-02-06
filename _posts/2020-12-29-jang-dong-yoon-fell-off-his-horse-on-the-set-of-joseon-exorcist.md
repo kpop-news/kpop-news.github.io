@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "장동윤, '조선 엑소시스트' 촬영장에서 말에서 떨어지다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

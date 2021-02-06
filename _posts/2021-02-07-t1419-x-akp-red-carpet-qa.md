@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "독점 T1419 x AKP 레드 카펫 Q"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://www.allkpop.com/upload/2021/02/content/051242/thumb/1612546953_GhostWriter.jpg"
 tags: 
 ---
+
+
+
+<div class="video_wrapper" style="padding-top: 56.25%;">
+    <iframe id="player" class="main_video" src="https://www.youtube.com/embed/dD87mcd7rUQ" width="100%" height="100%" frameborder="0" allowfullscreen="" style="display: block !important; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 《T1419》는 MLD 엔터테인먼트(MOMOLAND의 형제 그룹)의 9인조 보이그룹으로, 일본인 4명과 한국인 5명으로 구성되어 있다. 이들은 신비로운 데뷔 전 사진과 멤버의 얼굴이 악마 같은 화장으로 가린 트랙 `드라큘라`로 순식간에 팬들의 관심을 받았다.
@@ -19,6 +25,5 @@ T1419를 따뜻하게 환영해주시고, 2/12까지 저희 포럼의 실타래�
 
 
 <div class="video_wrapper" style="padding-top: 56.25%;">
-    <iframe width="760" height="350" src="https://www.youtube.com/embed/AB7kUkLMCqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/AB7kUkLMCqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
 </div>
-

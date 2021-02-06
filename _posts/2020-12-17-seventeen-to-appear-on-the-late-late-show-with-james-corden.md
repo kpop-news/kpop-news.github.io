@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEVENTEEN, 제임스 코든과 함께 하는 늦은 쇼'에 출연"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

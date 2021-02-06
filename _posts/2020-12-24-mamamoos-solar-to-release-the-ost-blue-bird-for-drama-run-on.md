@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "드라마 '달려라' OST '블루버드' 공개 마마무 솔라"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

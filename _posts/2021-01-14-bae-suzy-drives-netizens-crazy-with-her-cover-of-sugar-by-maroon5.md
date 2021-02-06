@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "마룬5의 '슈가' 표지로 네티즌들을 열광케 하는 배수지"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-4-890x512.png"
 tags: 
 ---

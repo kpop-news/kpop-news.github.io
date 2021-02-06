@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19에 대한 MOMOLAND 음성 테스트"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

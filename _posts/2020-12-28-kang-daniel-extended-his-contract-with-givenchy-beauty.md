@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, GIVENCHY BEAUTY와 계약 연장"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

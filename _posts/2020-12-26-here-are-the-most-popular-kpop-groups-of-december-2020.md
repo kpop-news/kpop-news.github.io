@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "여기 2020년 12월에 가장 인기 있는 K팝 그룹들이 있다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-26T100825.485-890x512.png"
 tags: 
 ---

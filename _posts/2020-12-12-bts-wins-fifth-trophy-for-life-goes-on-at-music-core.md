@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "방탄소년단, '뮤직 코어'에서 '인생은 계속된다'로 5번째 트로피를 거머쥐다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-73-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스의 나연과 채영이 'Cry FOR ME' 콘셉트 포토에서 우아한 아름다움을 뽐내다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-30-2-890x512.png"
 tags: 
 ---

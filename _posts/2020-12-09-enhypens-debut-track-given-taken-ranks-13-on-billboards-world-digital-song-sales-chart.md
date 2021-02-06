@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ENHYPEN의 데뷔곡 'Given-Taken'이 빌보드 월드 디지털 송 세일즈 차트에서 13위에 올랐다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

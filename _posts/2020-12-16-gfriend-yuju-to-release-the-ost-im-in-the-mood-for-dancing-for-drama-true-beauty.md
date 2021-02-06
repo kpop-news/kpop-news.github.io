@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "여자친구 유주, 드라마 '진정한 미녀' OST '춤을 출 기분이에요' 공개"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

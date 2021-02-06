@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "엔하이펜은 'Let Me In (20 큐브)'의 멋진 우주 비행사입니다. 뮤직비디오"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

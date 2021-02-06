@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이유가 아웃도어 브랜드 블랙야크의 새로운 브랜드 홍보대사로 선정되다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

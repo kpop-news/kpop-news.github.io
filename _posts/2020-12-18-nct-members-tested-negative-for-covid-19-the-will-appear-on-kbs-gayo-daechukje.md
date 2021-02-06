@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19 음성 판정이 나온 NCT 멤버들 + 'KBS 가야대축제' 출연 예정"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

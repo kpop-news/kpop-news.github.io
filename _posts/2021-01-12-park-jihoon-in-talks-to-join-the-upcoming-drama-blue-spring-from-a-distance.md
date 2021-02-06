@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "박지훈이 드라마 '멀리서 푸른 봄'에 합류하기 위해 이야기하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

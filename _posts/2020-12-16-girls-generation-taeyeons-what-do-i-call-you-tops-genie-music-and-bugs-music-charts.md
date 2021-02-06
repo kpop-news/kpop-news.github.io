@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "소녀시대 태연의 '내가 너를 뭐라고 부르지'가 지니뮤직과 벅스뮤직 차트에서 1위를 차지했다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-6-2-890x512.png"
 tags: 
 ---

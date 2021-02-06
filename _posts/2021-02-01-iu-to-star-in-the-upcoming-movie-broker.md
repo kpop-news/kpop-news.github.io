@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이유가 곧 개봉될 영화 '브로커'에 출연하다"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

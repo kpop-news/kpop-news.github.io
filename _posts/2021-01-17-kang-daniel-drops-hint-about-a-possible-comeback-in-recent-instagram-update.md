@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "최근 인스타그램 업데이트에서 컴백 가능성에 대한 힌트를 준 강다니엘"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

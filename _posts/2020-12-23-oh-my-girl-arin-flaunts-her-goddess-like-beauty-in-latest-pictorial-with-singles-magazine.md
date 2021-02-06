@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "최근 싱글 매거진 화보에서 오마이걸 아린이 여신 같은 미모를 뽐내다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-70-890x512.png"
 tags: 
 ---

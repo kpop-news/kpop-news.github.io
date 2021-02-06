@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐의 잭슨이 '놓아야만 했다'는 새로운 강렬한 티저 영상을 떨어뜨렸다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

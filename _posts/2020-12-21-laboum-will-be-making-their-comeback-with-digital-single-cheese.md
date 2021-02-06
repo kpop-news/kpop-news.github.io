@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "라붐, 디지털 싱글 '치즈'로 컴백"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-56-1-890x512.png"
 tags: 
 ---

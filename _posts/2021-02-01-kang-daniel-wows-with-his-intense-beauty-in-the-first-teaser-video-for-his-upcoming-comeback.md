@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, 컴백 첫 티저 영상 속 강렬한 미모로 야옹성"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-2-890x512.png
 ---
 

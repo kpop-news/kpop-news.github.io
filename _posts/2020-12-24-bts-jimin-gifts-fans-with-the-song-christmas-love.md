@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "방탄소년단 지민, '크리스마스 러브' 노래로 팬들에게 선물하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

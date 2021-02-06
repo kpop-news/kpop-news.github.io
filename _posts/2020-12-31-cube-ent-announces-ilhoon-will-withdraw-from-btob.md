@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "일훈이 비투비 탈퇴 선언 큐브엔트"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

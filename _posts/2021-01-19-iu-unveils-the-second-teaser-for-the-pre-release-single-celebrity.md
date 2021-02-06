@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이유가 발매 전 싱글 '연예인'의 두 번째 티저를 공개하다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-19-890x512.png"
 tags: 
 ---

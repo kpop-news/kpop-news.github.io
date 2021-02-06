@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "'불후의 명곡' 스포일러가 심호흡을 합니다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/060850/thumb/1612619430_germainej.jpg"
 tags: 
 ---
+
+
+
+<div class="video_wrapper" style="padding-top: 56.25%;">
+    <iframe id="player" class="main_video" src="https://www.youtube.com/embed/6pH4QRQObKY" width="100%" height="100%" frameborder="0" allowfullscreen="" style="display: block !important; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 에이티즈는 `불후의 명곡`에서 심호흡을 했다.

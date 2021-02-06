@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "여자친구 소원이 나치 군인상을 들고 포즈를 취한 것에 대해 사과하는 소스 음악"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-71-890x512.png
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AB6IX가 리패키지 앨범 'SALute: A NEW HOPE'를 발매한다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

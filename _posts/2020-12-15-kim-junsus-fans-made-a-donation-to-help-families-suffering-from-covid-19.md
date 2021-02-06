@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "김준수의 팬들은 COVID-19로 고통 받는 가족들을 돕기 위해 기부를 했다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

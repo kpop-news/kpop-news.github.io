@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "엘키가 CLC에서 탈퇴하고 큐브 엔터테인먼트를 떠나다"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

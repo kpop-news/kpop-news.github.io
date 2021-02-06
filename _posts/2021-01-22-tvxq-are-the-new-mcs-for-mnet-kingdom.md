@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "동방신기가 엠넷 '킹덤'의 새로운 MC이다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-11-1-890x512.png"
 tags: 
 ---

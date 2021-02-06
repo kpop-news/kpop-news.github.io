@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SM엔터테인먼트가 태연에 대한 악성 댓글 유포자에 대해 법적 대응에 나선다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-30T150906.602-890x512.png"
 tags: 
 ---

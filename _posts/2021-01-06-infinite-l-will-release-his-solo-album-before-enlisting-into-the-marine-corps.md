@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "인피니트, 해병대 입대 전 솔로 앨범 발표"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

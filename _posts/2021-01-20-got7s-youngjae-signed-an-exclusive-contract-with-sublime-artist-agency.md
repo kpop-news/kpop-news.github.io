@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7 영재, 서브라임 아티스트 에이전시와 전속계약 체결"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

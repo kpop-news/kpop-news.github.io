@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "새해 인사 비디오에서 배수지가 공주처럼 보인다고 생각하는 네티즌들"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

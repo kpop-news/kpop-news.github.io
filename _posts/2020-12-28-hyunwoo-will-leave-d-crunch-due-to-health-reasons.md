@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "건강상의 이유로 디크런치를 떠나는 현우"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19 음성 검사된 구구단 미나"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

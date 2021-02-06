@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7 뱀뱀, 인스타그램 팔로워 1200만 돌파에 감사하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-39-2-890x512.png"
 tags: 
 ---

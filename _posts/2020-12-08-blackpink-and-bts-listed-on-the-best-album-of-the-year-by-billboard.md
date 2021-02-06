@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크와 방탄소년단이 빌보드 '올해의 베스트 앨범'에 이름을 올렸다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, 곧 개봉될 캠퍼스 로맨스 드라마 '너와 나의 경찰 학교'를 이끌기 위해 대화하다"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-68-890x512.png
 ---
 

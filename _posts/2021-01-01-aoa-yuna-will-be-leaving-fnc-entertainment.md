@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AOA Yuna가 FNC 엔터테인먼트를 떠납니다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-01T032648.385-890x512.png"
 tags: 
 ---

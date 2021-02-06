@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "봄의 ATEEZ 스탠드 'Zero: Fever Part.2' 단체 티저 이미지"
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/061029/thumb/1612625376-20210206-ateez2.jpg"
 tags: 
 ---
 

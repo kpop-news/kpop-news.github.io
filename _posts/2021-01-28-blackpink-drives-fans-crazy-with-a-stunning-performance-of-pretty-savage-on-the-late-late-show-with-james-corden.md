@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크, 제임스 코든과 함께한 늦은 쇼'에서 '예쁜 새비지'의 놀라운 연기로 팬들을 열광시키다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-47-890x512.png"
 tags: 
 ---

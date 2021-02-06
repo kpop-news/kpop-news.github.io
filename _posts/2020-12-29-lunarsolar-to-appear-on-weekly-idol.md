@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'주간 아이돌'에 출연할 LUNARSOLAR"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

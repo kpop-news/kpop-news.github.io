@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EXO의 백현, 솔로 온라인 콘서트 '백현: 라이트' 개최"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-57-1-890x512.png"
 tags: 
 ---

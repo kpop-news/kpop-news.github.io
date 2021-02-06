@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "트와이스 다현"
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/061046/thumb/1612626414_germainej.jpg"
 tags: 
 ---
+
+
+
+<div class="video_wrapper" style="padding-top: 56.25%;">
+    <iframe id="player" class="main_video" src="https://www.youtube.com/embed/_OCrLKPweys" width="100%" height="100%" frameborder="0" allowfullscreen="" style="display: block !important; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 트와이스 다현과 채영이 `나에게로 전환` 커버 티저를 공개했다.

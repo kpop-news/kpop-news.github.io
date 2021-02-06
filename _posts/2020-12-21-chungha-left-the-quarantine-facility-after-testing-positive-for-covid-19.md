@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "충하, COVID-19 양성반응 후 격리시설 이탈"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-55-1-890x512.png"
 tags: 
 ---

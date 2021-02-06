@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐 유겸, 1월 JYP엔터테인먼트 탈퇴"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

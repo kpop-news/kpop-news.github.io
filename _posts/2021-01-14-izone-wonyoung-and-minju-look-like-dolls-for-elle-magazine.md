@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "엘르 잡지를 위한 인형처럼 보이는 아이즈원 원영과 민주"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2-890x512.png"
 tags: 
 ---

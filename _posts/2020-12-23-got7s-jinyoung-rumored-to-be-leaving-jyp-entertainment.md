@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7 진영, JYP엔터테인먼트 탈퇴설"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

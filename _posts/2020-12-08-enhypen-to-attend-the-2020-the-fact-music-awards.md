@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'2020 더 팩트 뮤직 어워드'에 참석하는 엔하이펜"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

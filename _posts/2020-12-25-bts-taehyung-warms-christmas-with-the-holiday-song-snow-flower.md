@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "방탄소년단 태형, 홀리데이 송 '눈꽃'으로 크리스마스를 따뜻하게 하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

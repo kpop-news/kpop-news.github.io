@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TXT는 EBS 라디오 쇼 '듣기'의 새로운 DJ이다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-04T120240.882-890x512.png"
 tags: 
 ---

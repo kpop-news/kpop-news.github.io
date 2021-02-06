@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NCT의 'Make a Wish (생일 노래)'"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-15T023328.209-890x512.png"
 tags: 
 ---

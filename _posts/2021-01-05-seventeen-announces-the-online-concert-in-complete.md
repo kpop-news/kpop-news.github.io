@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "세븐틴, 온라인 콘서트 'IN-COMPLETE' 발표"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-05T094941.092-890x512.png"
 tags: 
 ---

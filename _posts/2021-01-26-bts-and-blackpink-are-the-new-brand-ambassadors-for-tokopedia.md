@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BTS와 블랙핑크가 토키사전의 새로운 브랜드 홍보대사이다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

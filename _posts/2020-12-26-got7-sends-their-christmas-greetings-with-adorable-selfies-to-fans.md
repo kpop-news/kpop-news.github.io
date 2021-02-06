@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "팬들에게 사랑스러운 셀카로 크리스마스 인사를 전하는 갓세븐"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-26T113800.030-890x512.png"
 tags: 
 ---

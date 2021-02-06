@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'영원히' 티저 영상 속 섬세한 미모를 지닌 이스타파 마법사들"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-14-890x512.png
 ---
 

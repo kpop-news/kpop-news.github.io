@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크의 제니가 소주 브랜드 첨추럼의 새로운 얼굴이다."
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

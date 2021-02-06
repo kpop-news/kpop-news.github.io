@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G) MBC '주간아이돌'의 게스트로 I-DLE"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-28T143712.846-890x512.png"
 tags: 
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "DSP 미디어 보이그룹 미래(미래)가 티저 이미지를 통해 카엘을 소개한다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/061034/thumb/1612625652-20210206-mirae.jpg"
 tags: 
 ---
 

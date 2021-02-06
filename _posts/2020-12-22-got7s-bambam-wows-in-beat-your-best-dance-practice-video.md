@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Beat Your Best' 댄스 연습 비디오에 나오는 갓세븐의 뱀뱀"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

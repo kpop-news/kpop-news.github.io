@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'영원히' 티저 이미지에 모든 관심을 끄는 espa 윈터와 지젤"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

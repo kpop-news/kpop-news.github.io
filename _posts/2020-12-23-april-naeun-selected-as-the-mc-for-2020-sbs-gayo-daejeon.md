@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "에이프릴 나은이 2020 SBS 가요대전 MC로 발탁"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-71-1-890x512.png"
 tags: 
 ---

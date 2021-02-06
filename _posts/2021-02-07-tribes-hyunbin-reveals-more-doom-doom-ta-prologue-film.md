@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "트라이비 현빈이 프롤로그 영화에서 더 많은 '둠 둠 타' 안무를 공개하다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/061049/thumb/1612626555_germainej.jpg"
 tags: 
 ---
+
+
+
+<div class="video_wrapper" style="padding-top: 56.25%;">
+    <iframe id="player" class="main_video" src="https://www.youtube.com/embed/cN3pqYMJ85k" width="100%" height="100%" frameborder="0" allowfullscreen="" style="display: block !important; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 현빈은 TRI의 다음 멤버입니다.BE의 프롤로그 영화.

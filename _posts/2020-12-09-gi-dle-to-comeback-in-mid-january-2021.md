@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(G)I-DLE 2021년 1월 중순 컴백"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-41-1-890x512.png"
 tags: 
 ---

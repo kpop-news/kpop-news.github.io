@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트와이스가 신곡 'Cry For Me'로 팬들에게 선물하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

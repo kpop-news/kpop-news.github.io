@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "오마이걸의 '논스톱'이 타임지 선정 '2020' 기념비적인 케이팝 대표곡으로 선정되다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

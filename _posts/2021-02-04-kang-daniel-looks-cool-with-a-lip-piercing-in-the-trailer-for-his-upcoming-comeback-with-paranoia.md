@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, 'PARANOIA' 컴백 예고편에서 립 피어싱으로 멋있어 보인다"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-15-890x512.png
 ---
 

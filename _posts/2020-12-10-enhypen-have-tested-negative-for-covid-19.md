@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ENHYPEN COVID-19 음성 테스트 완료"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐 진영, BH엔터테인먼트와 전속계약 공식 체결"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-46-890x512.png"
 tags: 
 ---

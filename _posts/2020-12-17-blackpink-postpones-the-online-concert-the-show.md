@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크가 온라인 콘서트 '더 쇼'를 연기하다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

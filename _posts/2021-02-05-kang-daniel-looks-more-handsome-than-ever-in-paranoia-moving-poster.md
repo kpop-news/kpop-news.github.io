@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'파라오니아' 영화 포스터에서 강다니엘이 그 어느 때보다 잘생겨 보인다."
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-18-890x512.png
 ---
 

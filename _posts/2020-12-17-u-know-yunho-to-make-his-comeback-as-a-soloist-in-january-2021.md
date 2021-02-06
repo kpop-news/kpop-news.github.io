@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "유노윤호, 2021년 1월 솔로 컴백"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-23-2-890x512.png"
 tags: 
 ---

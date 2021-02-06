@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "샤이니, 2021년 컴백"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-2021-01-01T120211.544-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "방탄소년단, '뮤직 코어'에서 '인생은 계속된다'로 제7회 트로피를 거머쥐"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

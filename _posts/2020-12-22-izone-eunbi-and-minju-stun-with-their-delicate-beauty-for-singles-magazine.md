@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "싱글 매거진을 위한 섬세한 미모로 스턴트한 아이즈원 은비와 민주"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

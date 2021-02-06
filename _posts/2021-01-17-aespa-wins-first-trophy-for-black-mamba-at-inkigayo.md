@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'인기가요'에서 '블랙 맘바'로 첫 트로피를 거머쥐는 espa"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "봉재현 COVID-19 음성검사, 골든차일드 그룹 활동 재개"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

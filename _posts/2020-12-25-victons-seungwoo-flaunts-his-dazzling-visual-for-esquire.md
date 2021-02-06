@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "빅톤의 승우가 눈부신 비주얼을 뽐내며 '에스콰이어'에 도전하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

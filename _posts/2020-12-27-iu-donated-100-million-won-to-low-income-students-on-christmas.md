@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이유, 크리스마스 때 저소득층 학생들에게 1억 기부"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

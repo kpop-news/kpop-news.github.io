@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, MBC '전지적 참견 시점' 촬영 중 그의 웃긴 매니저와 함께"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

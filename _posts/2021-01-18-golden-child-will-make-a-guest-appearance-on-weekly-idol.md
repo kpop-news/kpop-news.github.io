@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "골든차일드가 '주간 아이돌'에 게스트로 출연"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

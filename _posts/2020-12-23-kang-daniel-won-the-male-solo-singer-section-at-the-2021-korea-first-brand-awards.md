@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘, 2021년 대한민국 퍼스트브랜드 대상 남자 솔로 가수 부문 수상"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-74-1-890x512.png"
 tags: 
 ---

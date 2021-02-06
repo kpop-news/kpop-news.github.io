@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "갓세븐의 뱀뱀은 새해를 축하하기 위해 'SunShine'이라는 노래로 팬들에게 선물을 준다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

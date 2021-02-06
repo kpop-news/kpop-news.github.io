@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "태연, 컴백 미적 티저 이미지 공개"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-57-890x512.png"
 tags: 
 ---

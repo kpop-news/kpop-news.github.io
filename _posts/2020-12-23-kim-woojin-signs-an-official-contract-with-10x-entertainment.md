@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "김우진, 10x엔터테인먼트와 공식 계약 체결"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-75-1-890x512.png"
 tags: 
 ---

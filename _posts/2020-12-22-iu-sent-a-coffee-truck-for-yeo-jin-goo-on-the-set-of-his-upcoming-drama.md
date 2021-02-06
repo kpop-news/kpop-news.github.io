@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아이유가 드라마 촬영장에서 여진구를 위해 커피차를 보냈다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

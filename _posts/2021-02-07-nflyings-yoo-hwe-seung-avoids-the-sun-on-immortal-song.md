@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "스포일러 N.플라잉의 유휘승이 '불후의 명곡'에서 태양을 피한다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/060732/thumb/1612614766_germainej.jpg"
 tags: 
 ---
 

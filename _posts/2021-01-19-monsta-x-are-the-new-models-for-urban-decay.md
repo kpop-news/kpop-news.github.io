@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "도시 붕괴의 새로운 모델 몬스타엑스"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-22-890x512.png"
 tags: 
 ---

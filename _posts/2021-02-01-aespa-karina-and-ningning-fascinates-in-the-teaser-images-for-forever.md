@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "영원히' 티저 이미지에 매혹된 니스파 카리나와 닝닝"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-69-890x512.png
 ---
 

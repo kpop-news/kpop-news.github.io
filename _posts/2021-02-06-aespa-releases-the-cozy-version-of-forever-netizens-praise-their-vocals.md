@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "아늑한 버전의 '영원히'를 발매한 espa + 그들의 보컬을 칭찬하는 네티즌들"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/02/300m-views-2-1-890x512.png"
 tags: 
 ---

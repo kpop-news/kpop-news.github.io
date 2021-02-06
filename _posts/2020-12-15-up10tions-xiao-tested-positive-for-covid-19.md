@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UP10TION의 Xiao 테스트 결과 COVID-19 양성"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

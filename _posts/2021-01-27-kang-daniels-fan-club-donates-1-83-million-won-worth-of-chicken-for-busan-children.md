@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘 팬클럽, 부산 어린이 치킨 183만원 상당 기부"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

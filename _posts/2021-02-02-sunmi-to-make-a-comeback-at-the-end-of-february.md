@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "선미, 2월 말 컴백"
-author: 'CSS Dev'
+author: 'Kpop News'
 thumbnail: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 ---
 

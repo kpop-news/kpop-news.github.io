@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크의 리사가 '당신과 함께하는 청춘 시즌3'의 댄스 멘토로 확정됐다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

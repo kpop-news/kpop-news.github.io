@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "배우 김희선이 방탄소년단 정국의 광팬임을 밝혔다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "세계적인 패션 디자이너 케이 김, 에세파의 '블랙 맘바' 의상 디자이너로 선정되다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-2020-12-30T071657.016-890x512.png"
 tags: 
 ---

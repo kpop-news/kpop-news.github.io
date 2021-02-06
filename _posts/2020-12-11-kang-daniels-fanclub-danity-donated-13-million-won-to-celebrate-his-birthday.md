@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "강다니엘의 팬클럽 DANITY가 그의 생일을 축하하기 위해 1,300만원을 기부했다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-69-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "에이핑크 나은이 곧 방영될 드라마 '더 이상 인간이 아니다'에 출연한다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙핑크 리사와 로제가 다음 달에 솔로 데뷔를 한다."
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

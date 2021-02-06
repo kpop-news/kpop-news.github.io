@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "에이핑크, '올해의 핑크' 온라인 콘서트 개최"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

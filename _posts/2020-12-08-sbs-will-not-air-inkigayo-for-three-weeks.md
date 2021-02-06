@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SBS, 3주 동안 '인기가요' 방송 안 함"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

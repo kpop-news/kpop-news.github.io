@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOT7의 '해리 스타일에 의한 추락'의 표지를 단 진영 마니아들"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

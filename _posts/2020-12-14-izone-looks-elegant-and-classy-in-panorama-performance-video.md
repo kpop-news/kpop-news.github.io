@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'파노라마' 퍼포먼스 비디오에서 우아하고 고급스러워 보이는 아이즈원"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---

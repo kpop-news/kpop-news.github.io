@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12월 개인 아이돌 브랜드 평판 1위 방탄소년단 지민, 2위 방탄소년단 제이홉, 3위 엑소 카이"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2020/12/300m-views-42-1-890x512.png"
 tags: 
 ---

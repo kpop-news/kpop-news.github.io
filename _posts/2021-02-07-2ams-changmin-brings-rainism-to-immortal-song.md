@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "스포일러 2AM의 창민이 '불후의 명곡'으로 '레이니즘'을 불러옵니다."
-author: "CSS Dev"
-thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+author: "Kpop News"
+thumbnail: "https://www.allkpop.com/upload/2021/02/content/060755/thumb/1612616107_germainej.jpg"
 tags: 
 ---
 

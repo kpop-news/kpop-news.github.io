@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JYP엔터테인먼트, 2PM 완전체로 컴백 발표"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "https://kpopchingu.com/wp-content/uploads/2021/01/300m-views-3-890x512.png"
 tags: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "배수지가 COVID-19로 인해 온라인 콘서트를 10주년 연기하다"
-author: "CSS Dev"
+author: "Kpop News"
 thumbnail: "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
 tags: 
 ---
